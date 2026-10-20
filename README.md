@@ -1,6 +1,6 @@
 # Feedback Form
 
-A small full-stack learning project. Visitors can submit feedback with their name, email, message, and optional Instagram or LinkedIn links. The Express server saves submissions in MongoDB Atlas and serves the form from the same web service.
+A simple full-stack app for collecting feedback about a topic, product, or experience and saving submissions in MongoDB.
 
 ## How the app works
 
